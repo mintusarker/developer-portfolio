@@ -6,7 +6,8 @@ body {
 h1 {
     font-size: 50px;
 }
-h2{
+
+h2 {
     font-size: 40px;
 }
 
@@ -51,12 +52,14 @@ h2{
 .half-width {
     padding-right: 8%;
 }
-.experience-area{
+
+.experience-area {
     background-image: url(images/exp-bg.png);
     background-repeat: no-repeat;
     background-position: left;
 }
-.experience-item{
+
+.experience-item {
     width: 40%;
     margin-left: 5%;
     margin-right: 5%;
@@ -64,12 +67,15 @@ h2{
     border-radius: 10px;
     box-shadow: 10px 10px 40px gray;
 }
-#full-stack-developer{
+
+#full-stack-developer {
     border-left: 7px solid tomato;
 }
-#baby-web-developer{
+
+#baby-web-developer {
     border-left: 7px solid blue;
 }
-footer p{ 
+
+footer p {
     text-align: center;
-} 
+}
